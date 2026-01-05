@@ -2,7 +2,7 @@
 
 **Guan Yuan Tan, Ngoc Tuan Vu, Arghya Pal, et al.**
 
-### **[AAAI 2026]** | [Paper](Coming Soon!) | [Project Page ]([https://tgy1221.github.io](https://tgy1221.github.io/flag4d/index.html#))
+### **[AAAI 2026]** | [Paper](Coming Soon!) | [Project Page ]([https://tgy1221.github.io](https://tgy1221.github.io/flag4d/index.html))
 
 ## Abstract
 
